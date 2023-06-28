@@ -1,0 +1,10 @@
+.cuadro{
+    width: 25px;
+    height: 25px;
+    border: 1px black solid;
+    display: inline-block;
+}
+
+#resultC12 {
+    margin: 0 auto;
+}
